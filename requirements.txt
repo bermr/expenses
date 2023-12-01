@@ -1,0 +1,3 @@
+pynubank
+pyopenssl==22.1.0
+python-dotenv
